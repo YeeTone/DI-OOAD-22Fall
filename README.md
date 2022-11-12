@@ -19,6 +19,9 @@ You can:
 You cannot:
 - Take the code of a friend and make a few cosmetic changes and pass it as your own work
 
+# Warning!
+Don't try to plagiarize, and we ensure we will launch duplication checking programs for your submission after deadline!
+
 ## Faculty
 
 Lecture Teacher: Yuqun ZHANG（张煜群）
