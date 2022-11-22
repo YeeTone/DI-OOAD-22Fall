@@ -22,7 +22,9 @@ You cannot:
 
 ## Warning!
 1. Don't try to plagiarize, and we ensure we will launch duplication checking programs for your submission after deadline.
-2. If you fork this repository, considering the forked repository cannot be private, do not push any of your code before the deadline.
+2. Considering the forked repository cannot be private, It does not seem like a good idea that you fork this repository. If you fork this repository, do not push any of your code before the deadline. It is suggested you use this repository as a template and set it to private.
+
+![image](https://user-images.githubusercontent.com/64548919/203373916-324370e5-291b-4fb5-830d-5abc496e79be.png)
 
 ## Faculty
 
