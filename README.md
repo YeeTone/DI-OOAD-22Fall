@@ -3,10 +3,11 @@ Repo for Dependency Injection Asssigment for OOAD in 22 Fall Semester
 
 ## Fast Navigation
 
-- [Document]()
-- [Source Code]()
-- [Properties]()
-- [Local JUnit]()
+- [Document](https://github.com/YeeTone/DI-OOAD-22Fall-public/blob/main/document/document.md)
+- [Source Code](https://github.com/YeeTone/DI-OOAD-22Fall-public/tree/main/src/dependency_injection)
+- [Inject Properties](https://github.com/YeeTone/DI-OOAD-22Fall-public/blob/main/local-inject.properties)
+- [Value Properties](https://github.com/YeeTone/DI-OOAD-22Fall-public/blob/main/local-value.properties)
+- [Local JUnit](https://github.com/YeeTone/DI-OOAD-22Fall-public/tree/main/src/localtests)
 - [Q&A Issues](https://github.com/YeeTone/DI-OOAD-22Fall-public/issues)
 
 ## What you can and what you cannot
@@ -20,7 +21,7 @@ You cannot:
 - Take the code of a friend and make a few cosmetic changes and pass it as your own work
 
 ## Warning!
-1. Don't try to plagiarize, and we ensure we will launch duplication checking programs for your submission after deadline
+1. Don't try to plagiarize, and we ensure we will launch duplication checking programs for your submission after deadline.
 2. If you fork this repository, considering the forked repository cannot be private, do not push any of your code before the deadline.
 
 ## Faculty
