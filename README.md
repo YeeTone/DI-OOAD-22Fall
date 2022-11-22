@@ -19,8 +19,9 @@ You can:
 You cannot:
 - Take the code of a friend and make a few cosmetic changes and pass it as your own work
 
-# Warning!
-Don't try to plagiarize, and we ensure we will launch duplication checking programs for your submission after deadline!
+## Warning!
+1. Don't try to plagiarize, and we ensure we will launch duplication checking programs for your submission after deadline
+2. If you fork this repository, considering the forked repository cannot be private, do not push any of your code before the deadline.
 
 ## Faculty
 
