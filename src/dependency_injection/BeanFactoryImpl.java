@@ -227,7 +227,7 @@ public class BeanFactoryImpl implements BeanFactory {
                 return integerList.toArray(new Integer[0]);
             }
         } else if (elementType.equals(String.class)) {
-            return Arrays.asList(elementStrings).toArray();
+            return Arrays.asList(elementStrings).toArray(new String[0]);
         } else {
             return null;
         }
